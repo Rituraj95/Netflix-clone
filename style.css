@@ -1,0 +1,154 @@
+*{
+    margin: 0px;
+}
+.hero1{
+    
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://assets.nflxext.com/ffe/siteui/vlv3/d282a426-b01a-424c-9b83-2c2445e4b61a/f7eb3bc2-2867-4c7e-94f8-e62ec11175cd/IN-en-20230626-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 713px;
+        background-repeat: no-repeat;
+      
+}
+.navbar img{
+    height: 65px;
+    width: 290px;
+    padding-left: 6.5rem;
+    padding-top: 2rem;
+}
+.midcontent{
+    display: block;
+    margin-left: 20%;
+    margin-top: 15%;
+    color: aliceblue;
+}
+.midcontent h1{
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.midcontent button{
+    margin-left: 21rem;
+}
+
+.midcontent .text1{
+    font-size: 2rem;
+    padding-left: 19rem;
+}
+.midcontent .text2{
+    font-size: 2rem;
+    padding-left: 13rem ;
+
+}
+.vidimg{
+    background-color: black;
+    height: 700px;
+    display: flex;
+}
+
+.hero2 {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 35.25%; 
+    
+  }
+  
+  .hero2content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .video video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+  }
+  .vidimg .textt{
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 30px;
+    width: 100rem;
+    padding-top: 12rem;
+    padding-left: 6rem;
+  }
+  .hero3{
+    background-color: black;
+  }
+  .container{
+    display: flex;
+    color: white;
+  }
+  .texttt{
+    margin-top: 78px;
+  }
+
+  .hero4{
+    background-color: black;
+    display: flex;
+  }
+  .iv {
+    position: relative;
+}
+
+.iv img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.iv video {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.hero4{
+    background-color: black;
+  
+}
+.h44{
+    margin-top: 6rem;
+}
+  
+.t11{
+    margin-top: 5rem;
+}
+.devv .footer{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+  
+}
+
+.footer li{
+    list-style: none;
+}
+.devv{
+    background-color: black;
+    color: aliceblue;
+    height: 14rem;
+
+}
+.devv p{
+    margin-left: 17.3rem;
+    
+   
+}
